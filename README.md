@@ -1,9 +1,14 @@
-# Hi, I'm Wei-Lun Hsu 👋
+# Hi, I'm Wei-Lun Hsu 
+
+### Software Engineer | Algorithm Developer
 
 🎓 M.S. in Computer Science and Information Engineering  
 National Yunlin University of Science and Technology
 
-💡 About Me
+🎓 M.S. in Computer Science and Information Engineering  
+National Yunlin University of Science and Technology
+
+About Me
 
 - Background in Applied Mathematics and Computer Science
 - Specialized in Algorithm Design and Optimization Research
@@ -28,14 +33,16 @@ National Yunlin University of Science and Technology
 - API Integration
 
 ### Research Areas
+
 - Algorithm Design
-- Optimization
+- Optimization Algorithms
 - PCB Routing
-- Artificial Intelligence
+- Software Engineering
+- System Integration
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### Live Donation Bar
 Electron-based donation overlay tool for streamers.
@@ -63,6 +70,6 @@ Research Topics:
 
 ---
 
-## 🎯 Career Goal
+##  Career Goal
 
 Seeking a long-term software engineering or R&D position where I can continue developing technical expertise, contribute to meaningful projects, and grow alongside the organization.
