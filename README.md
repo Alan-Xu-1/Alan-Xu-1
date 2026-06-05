@@ -2,19 +2,21 @@
 
 ### Software Engineer | Algorithm Developer
 
-🎓 M.S. in Computer Science and Information Engineering  
+## Education
+
+🎓 M.S. in Computer Science and Information Engineering
 National Yunlin University of Science and Technology
 
-🎓 M.S. in Computer Science and Information Engineering  
-National Yunlin University of Science and Technology
+🎓 B.S. in Applied Mathematics
+National Chiayi University
 
 About Me
 
-- Background in Applied Mathematics and Computer Science
-- Specialized in Algorithm Design and Optimization Research
-- Experienced in Software Development and API Integration
-- Passionate about solving complex engineering problems
-- Fast learner with strong analytical thinking
+Background in Applied Mathematics and Computer Science
+Specialized in Algorithm Design and Optimization Research
+Experienced in Independent Software Development and API Integration
+Strong problem-solving and analytical thinking skills
+Fast learner with cross-disciplinary research experience
 
 ---
 
